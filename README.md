@@ -1,5 +1,5 @@
 # Web-Workshop-IEEE
-      HTML, CSS, Bootstrap and Javascript training.
+                              HTML, CSS, Bootstrap and Javascript training.
 
 ![Web](https://github.com/PelinToy/Web-Workshop-IEEE/assets/111890867/ad9b4c27-4df2-41aa-9b55-72fb9c3410d5)
 
