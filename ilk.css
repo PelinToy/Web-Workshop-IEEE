@@ -1,0 +1,62 @@
+.first{
+    /*color: lightpink;*/
+    color: rgb(218, 105, 184);
+    text-align: center;
+    /*border-style:dashed; */
+    border-width:thick;
+    padding-top:50px;
+    padding-right:30px;
+    padding-bottom:50px;
+    padding-left:80px;
+    /*padding:10px 30px 50px 30px ;*/
+    border-style:groove; 
+    /*border-width:10px;*/
+    /*border-width:thick;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 80px;*/
+    /*margin:10px 100px 50px 80px; */
+}
+body{
+    background-color: beige;
+}
+p{
+    color: #89309c;
+}
+h2{
+    color: hsl(248,53%, 58%);
+}
+img{
+    /*opacity: 0.9; */
+    background: rgba(0, 128, 0, 0.1);
+}
+a.ieee:link{
+    color:red;
+}
+a.ieee:visited{
+    color:green;
+}
+a.ieee:hover{
+    color:hotpink;
+}
+a.ieee:active{
+    color:aqua;
+}
+#second{
+    color:#7f2c92;
+    font-size:large;
+}
+#three{
+    color:rgb(240, 154, 114);
+    font-size:25px;
+}
+.box{
+    width: 200%;
+    height:200px;
+    background-color:azure;
+    border-radius: 15px 50px 30px 5px;
+}
+/*border-style:dashed;  tırtıklı çerçeve yapar*/
+/*border-style:groove;  düz çerçeve */
+/*border-width:thick; daha kalın çerçeve */
